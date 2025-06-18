@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6186a2bb-6107-4401-a1d5-e953b784acdb)
+
+
 # Sportboard App
 
 Sportboard App es una aplicación web diseñada para gestionar y visualizar información relacionada con deportes, incluyendo partidos en vivo, próximos partidos, noticias recientes y estadísticas generales.
