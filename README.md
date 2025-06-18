@@ -18,7 +18,6 @@ El proyecto está organizado en dos carpetas principales:
     - `fondo-verde-abstracto.jpg`
     - `Manchester.jpg`
     - `Sport.png`
-- **`sportboard-ui/`**: Carpeta vacía para futuras implementaciones de la interfaz de usuario.
 
 ## Características
 
