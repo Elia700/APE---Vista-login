@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6186a2bb-6107-4401-a1d5-e953b784acdb)
+
 
 
 # Sportboard App
@@ -46,7 +46,10 @@ El proyecto está organizado en dos carpetas principales:
 
 ### Ejecución
 1. Abre el archivo `APE _Vista_login/login.html` en tu navegador para acceder a la página de inicio de sesión.
-2. Una vez autenticado, accede al archivo `APE _Vista_login/index.html` para visualizar el dashboard.
+![image](https://github.com/user-attachments/assets/6186a2bb-6107-4401-a1d5-e953b784acdb)
+3. Una vez autenticado, accede al archivo `APE _Vista_login/index.html` para visualizar el dashboard.
+![image](https://github.com/user-attachments/assets/ed4cfa11-c7f1-4193-a2b6-fe6028778a9b)
+
 
 ### Tarea en Visual Studio Code
 El archivo `.vscode/tasks.json` incluye una tarea para abrir la página de inicio de sesión directamente:
